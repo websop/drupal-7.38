@@ -218,8 +218,8 @@ $databases = array (
     'default' => 
     array (
       'database' => 'curso001_websop',
-      'username' => 'root',
-      'password' => '1do9re6na5',
+      'username' => 'user',
+      'password' => 'password',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
